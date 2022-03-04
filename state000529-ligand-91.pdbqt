@@ -1,9 +1,9 @@
 MODEL 1
-REMARK VINA RESULT:    -9.690      0.000      0.000
-REMARK INTER + INTRA:          -6.336
-REMARK INTER:                  -5.109
-REMARK INTRA:                  -1.227
-REMARK UNBOUND:                 6.187
+REMARK VINA RESULT:   -11.211      0.000      0.000
+REMARK INTER + INTRA:          -6.050
+REMARK INTER:                  -5.906
+REMARK INTRA:                  -0.145
+REMARK UNBOUND:                 8.438
 REMARK  5 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
 REMARK    1  A    between atoms: CAM_13  and  CAS_19 
@@ -12,47 +12,47 @@ REMARK    3  A    between atoms: OAQ_17  and  CAS_19
 REMARK    4  A    between atoms: OAQ_17  and  CBE_31 
 REMARK    5  A    between atoms: CAT_20  and  CAW_23 
 ROOT
-ATOM      1  CAA JQ1 d   1      57.137  45.375  45.733  0.00  0.00     0.075 C 
-ATOM      2  CAB JQ1 d   1      54.646  44.827  40.215  0.00  0.00     0.134 C 
-ATOM      3  CAC JQ1 d   1      51.974  45.943  41.403  0.00  0.00     0.122 C 
-ATOM      4  NAN JQ1 d   1      52.567  48.185  45.007  0.00  0.00    -0.577 NA
-ATOM      5  NAO JQ1 d   1      56.461  47.586  46.783  0.00  0.00    -0.337 NA
-ATOM      6  NAP JQ1 d   1      55.625  48.540  46.593  0.00  0.00    -0.332 NA
-ATOM      7  SAR JQ1 d   1      55.824  45.789  42.657  0.00  0.00     0.053 SA
-ATOM      8  CAT JQ1 d   1      52.405  47.096  44.237  0.00  0.00     0.558 C 
-ATOM      9  CAV JQ1 d   1      56.320  46.666  45.815  0.00  0.00     0.379 A 
-ATOM     10  CAX JQ1 d   1      54.491  45.508  41.597  0.00  0.00    -0.117 A 
-ATOM     11  CAY JQ1 d   1      53.318  46.010  42.148  0.00  0.00    -0.058 A 
-ATOM     12  CAZ JQ1 d   1      54.926  48.245  45.480  0.00  0.00     0.360 A 
-ATOM     13  CBA JQ1 d   1      53.468  46.565  43.448  0.00  0.00    -0.209 A 
-ATOM     14  CBB JQ1 d   1      54.811  46.509  43.866  0.00  0.00    -0.013 A 
-ATOM     15  CBC JQ1 d   1      53.767  49.061  44.870  0.00  0.00     0.207 C 
-ATOM     16  NBD JQ1 d   1      55.319  47.064  45.001  0.00  0.00    -0.238 N 
+ATOM      1  CAA JQ1 d   1      46.976  46.039  47.009  0.00  0.00     0.075 C 
+ATOM      2  CAB JQ1 d   1      50.462  51.017  46.949  0.00  0.00     0.134 C 
+ATOM      3  CAC JQ1 d   1      51.868  49.899  44.386  0.00  0.00     0.122 C 
+ATOM      4  NAN JQ1 d   1      49.481  47.007  42.310  0.00  0.00    -0.577 NA
+ATOM      5  NAO JQ1 d   1      46.184  45.495  44.658  0.00  0.00    -0.337 NA
+ATOM      6  NAP JQ1 d   1      46.428  45.834  43.445  0.00  0.00    -0.332 NA
+ATOM      7  SAR JQ1 d   1      48.486  48.994  46.425  0.00  0.00     0.053 SA
+ATOM      8  CAT JQ1 d   1      50.335  47.475  43.236  0.00  0.00     0.558 C 
+ATOM      9  CAV JQ1 d   1      46.974  46.197  45.488  0.00  0.00     0.379 A 
+ATOM     10  CAX JQ1 d   1      49.957  49.832  46.090  0.00  0.00    -0.117 A 
+ATOM     11  CAY JQ1 d   1      50.562  49.315  44.952  0.00  0.00    -0.058 A 
+ATOM     12  CAZ JQ1 d   1      47.390  46.776  43.477  0.00  0.00     0.360 A 
+ATOM     13  CBA JQ1 d   1      49.885  48.206  44.376  0.00  0.00    -0.209 A 
+ATOM     14  CBB JQ1 d   1      48.710  47.908  45.092  0.00  0.00    -0.013 A 
+ATOM     15  CBC JQ1 d   1      48.059  47.459  42.267  0.00  0.00     0.207 C 
+ATOM     16  NBD JQ1 d   1      47.769  46.990  44.738  0.00  0.00    -0.238 N 
 ENDROOT
 BRANCH  15  17
-ATOM     17  CAM JQ1 d   1      53.543  50.425  45.511  0.00  0.00     0.095 C 
+ATOM     17  CAM JQ1 d   1      47.412  47.147  40.923  0.00  0.00     0.095 C 
 BRANCH  17  18
-ATOM     18  CAS JQ1 d   1      52.242  51.014  44.954  0.00  0.00     0.652 C 
-ATOM     19  OAG JQ1 d   1      52.081  51.183  43.747  0.00  0.00    -0.542 OA
+ATOM     18  CAS JQ1 d   1      46.831  48.445  40.352  0.00  0.00     0.652 C 
+ATOM     19  OAG JQ1 d   1      47.085  48.811  39.206  0.00  0.00    -0.542 OA
 BRANCH  18  20
-ATOM     20  OAQ JQ1 d   1      51.320  51.308  45.862  0.00  0.00    -0.455 OA
+ATOM     20  OAQ JQ1 d   1      46.037  49.119  41.175  0.00  0.00    -0.455 OA
 BRANCH  20  21
-ATOM     21  CBE JQ1 d   1      49.984  50.690  45.967  0.00  0.00     0.174 C 
-ATOM     22  CAD JQ1 d   1      49.100  51.698  46.656  0.00  0.00     0.037 C 
-ATOM     23  CAE JQ1 d   1      49.460  50.208  44.599  0.00  0.00     0.037 C 
-ATOM     24  CAF JQ1 d   1      50.171  49.462  46.866  0.00  0.00     0.037 C 
+ATOM     21  CBE JQ1 d   1      46.220  50.521  41.596  0.00  0.00     0.174 C 
+ATOM     22  CAD JQ1 d   1      47.431  50.542  42.493  0.00  0.00     0.037 C 
+ATOM     23  CAE JQ1 d   1      46.297  51.482  40.392  0.00  0.00     0.037 C 
+ATOM     24  CAF JQ1 d   1      44.966  50.871  42.406  0.00  0.00     0.037 C 
 ENDBRANCH  20  21
 ENDBRANCH  18  20
 ENDBRANCH  17  18
 ENDBRANCH  15  17
 BRANCH   8  25
-ATOM     25  CAW JQ1 d   1      51.196  46.346  44.451  0.00  0.00    -0.133 A 
-ATOM     26  CAK JQ1 d   1      51.186  45.143  45.144  0.00  0.00     0.056 A 
-ATOM     27  CAI JQ1 d   1      50.001  44.425  45.334  0.00  0.00     0.020 A 
-ATOM     28  CAU JQ1 d   1      48.807  44.908  44.852  0.00  0.00     0.026 A 
-ATOM     29 ClAH JQ1 d   1      47.352  43.975  45.106  0.00  0.00    -0.089 Cl
-ATOM     30  CAJ JQ1 d   1      48.800  46.095  44.122  0.00  0.00     0.020 A 
-ATOM     31  CAL JQ1 d   1      49.973  46.819  43.945  0.00  0.00     0.056 A 
+ATOM     25  CAW JQ1 d   1      51.684  46.980  43.159  0.00  0.00    -0.133 A 
+ATOM     26  CAK JQ1 d   1      52.547  47.016  44.246  0.00  0.00     0.056 A 
+ATOM     27  CAI JQ1 d   1      53.856  46.536  44.148  0.00  0.00     0.020 A 
+ATOM     28  CAU JQ1 d   1      54.316  45.998  42.969  0.00  0.00     0.026 A 
+ATOM     29 ClAH JQ1 d   1      55.963  45.418  42.889  0.00  0.00    -0.089 Cl
+ATOM     30  CAJ JQ1 d   1      53.479  45.985  41.856  0.00  0.00     0.020 A 
+ATOM     31  CAL JQ1 d   1      52.171  46.446  41.954  0.00  0.00     0.056 A 
 ENDBRANCH   8  25
 TORSDOF 5
 ENDMDL
